@@ -16,4 +16,17 @@ class CleanDataFrame:
         except Exception as e:
             logger.error(e)
         return df
-        
+    def drop_duplicates(self, df: pd.DataFrame, subset=None) -> pd.DataFrame:
+        """
+        This checkes if there are any duplicated entries for a user
+        And remove the duplicated rows
+        """
+        try:
+            if subset != None:
+                df = df.drop_duplicates(subset='')
+            else:
+                df = df.drop_duplicates()
+            logger.info(f'successfully droped duplicates')
+        except Exception as e:
+            logger.error(e)
+        return df
