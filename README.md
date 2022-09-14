@@ -24,7 +24,7 @@ Prompt Engineering: In-context learning with GPT-3 and other Large Language Mode
 
 ## MLOps Design
 
-![Alt text](MLOps_Cycle.png?raw=true "MLOps Design")
+![Alt text](prompt-summary-example?raw=true "MLOps Design")
 
 
 
