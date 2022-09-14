@@ -6,7 +6,7 @@
 
  [Prompt-Engineering-In-context-learning](#Prompt-Engineering-In-context-learning)
   - [Overview](#overview)
-  - [prompt engineering](#prompt engineering)
+  - [Prompt-Engineering-In-context-learning](#Prompt-Engineering-In-context-learning)
   - [Installation](#installation)
   - [Data](#data)
   - [Project Structure](#project-Structure)
