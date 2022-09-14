@@ -1,0 +1,2 @@
+2022-09-14 21:57:26,062:logger:The path '../data/Example_data.csv' does not exist in the target repository '/home/zelax/10Accademy/Tenx/Prompt-Engineering-In-context-learning' neither as a DVC output nor as a Git-tracked file.
+2022-09-14 21:59:18,938:logger:The path '../data/Example_data.csv' does not exist in the target repository '/home/zelax/10Accademy/Tenx/Prompt-Engineering-In-context-learning' neither as a DVC output nor as a Git-tracked file.
