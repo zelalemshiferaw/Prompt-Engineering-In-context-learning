@@ -6,7 +6,7 @@
 
  [Prompt-Engineering-In-context-learning](#Prompt-Engineering-In-context-learning)
   - [Overview](#overview)
-  - [MLOps Design](#mlops-design)
+  - [prompt engineering](#prompt engineering)
   - [Installation](#installation)
   - [Data](#data)
   - [Project Structure](#project-Structure)
@@ -24,19 +24,19 @@ Prompt Engineering: In-context learning with GPT-3 and other Large Language Mode
 
 ## MLOps Design
 
-![Alt text](prompt-summary-example?raw=true "MLOps Design")
+![Alt text](prompt-summary-example.png?raw=true "prompt engineering")
 
 
 
 ## Installation
 
-       git clone https://github.com/zelalemshiferaw/ Pharmaceutical-Sales-prediction.git
-       cd  Pharmaceutical-Sales-prediction 
+       git clone https://github.com/zelalemshiferaw/Prompt-Engineering-In-context-learning.git
+       cd Prompt-Engineering-In-context-learning
        pip install -r requirements.txt
         
 ## Data
 <p>
-Data source For this Project was given as sampled  Pharmaceutical-Sales-prediction data.
+Data source For this Project was given as sampled  Prompt-Engineering-In-context-learning data.
 </p>
 
 
